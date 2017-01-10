@@ -3,7 +3,11 @@
 
     git status
     git branch
-      
+
+
 [Clemson football](https://en.wikipedia.org/wiki/Clemson_Tigers_football)
 
-![gps screen shot](gps1.png)
+![Screen shot](gps1.png)
+
+      
+
